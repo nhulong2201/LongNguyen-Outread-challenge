@@ -1,0 +1,63 @@
+Cluster 0 has the following papers:
+Race to carbon neutrality in South Africa: What role does environmental technological innovation play?
+Enhancing resource efficiency through the utilization of the green bond market: An empirical analysis of Asian economies
+Risk-constrained stochastic scheduling for energy hub: Integrating renewables, demand response, and electric vehicles
+Sodium‐Ion Battery Materials and Electrochemical Properties Reviewed
+Polyanion-type electrode materials for advanced sodium-ion batteries
+
+
+
+Cluster -1 has the following papers:
+Model Predictive Current Control of Nine-Phase Open-End Winding PMSMs With an Online Virtual Vector Synthesis Strategy
+Solar Energy: Applications, Trends Analysis, Bibliometric Analysis and Research Contribution to Sustainable Development Goals (SDGs)
+Environmental impact of renewable energy source based electrical power plants: Solar, wind, hydroelectric, biomass, geothermal, tidal, ocean, and osmotic
+A Perspective on the Overarching Role of Hydrogen, Ammonia, and Methanol Carbon-Neutral Fuels towards Net Zero Emission in the Next Three Decades
+Recent Progress in Rechargeable Sodium‐Ion Batteries: toward High‐Power Applications
+Wind speed forecasting based on the hybrid ensemble empirical mode decomposition and GA-BP neural network method
+Optimal day-ahead large-scale battery dispatch model for multi-regulation participation considering full timescale uncertainties
+A Prompt Decarbonization Pathway for Shipping: Green Hydrogen, Ammonia, and Methanol Production and Utilization in Marine Engines
+Rechargeable Zinc Alkaline Anodes for Long-Cycle Energy Storage
+Potential-Driven Restructuring of Cu Single Atoms to Nanoparticles for Boosting the Electrochemical Reduction of Nitrate to Ammonia
+Strategies to save energy in the context of the energy crisis: a review
+Applications of Green Synthesized Metal Nanoparticles — a Review
+Photocatalytic H2O2 production Systems: Design strategies and environmental applications
+Weather Impact on Solar Farm Performance: A Comparative Analysis of Machine Learning Techniques
+Arming Ru with Oxygen‐Vacancy‐Enriched RuO2 Sub‐Nanometer Skin Activates Superior Bifunctionality for pH‐Universal Overall Water Splitting
+Recent advancement and assessment of green hydrogen production technologies
+Highly efficient adsorption and removal bio-staining dye from industrial wastewater onto mesoporous Ag-MOFs
+A review on global warming potential, challenges and opportunities of renewable hydrogen production technologies
+Optimal Grid Flexibility Assessment for Integration of Variable Renewable-Based Electricity Generation
+Dealing with multiple decades of hourly wind and PV time series in energy models: A comparison of methods to reduce time resolution and the planning implications of inter-annual variability
+The merit-order effect in the Italian power market_ The impact of solar and wind generation on national wholesale electricity prices
+Design and investigation of PV string/central architecture for bayesian fusion technique using grey wolf optimization and flower pollination optimized algorithm
+A review of carbon dots in synthesis strategy
+Toward fostering environmental innovation in OECD countries: Do fiscal decentralization, carbon pricing, and renewable energy investments matter?
+Techno-economic evaluation of hydrogen and ammonia as energy carriers in a multi-generation system
+Feasibility study of an islanded microgrid in rural area consisting of PV, wind, biomass and battery energy storage system
+A comprehensive study of renewable energy sources: Classifications, challenges and suggestions
+Optimal Prediction Intervals of Wind Power Generation
+Stochastic coordinated operation of wind and battery energy storage system considering battery degradation
+Defective TiO2−x for High‐Performance Electrocatalytic NO Reduction toward Ambient NH3 Production
+Investigating the role of nuclear power and battery storage in Hungary's energy transition using hourly resolution electricity market simulations
+Data-driven probabilistic machine learning in sustainable smart energy/smart energy systems: Key developments, challenges, and future research opportunities in the context of smart grid paradigm
+Challenges and Mitigation Measures in Power Systems with High Share of Renewables—The Australian Experience
+Electrochemical C&#x2013;N coupling of CO2 and nitrogenous small molecules for the electrosynthesis of organonitrogen compounds
+State-of-Charge Balancing Control for ON/OFF-Line Internal Cells Using Hybrid Modular Multi-Level Converter and Parallel Modular Dual L-Bridge in a Grid-Scale Battery Energy Storage System
+ERA5: The new champion of wind power modelling?
+Co doping regulating electronic structure of Bi2MoO6 to construct dual active sites for photocatalytic nitrogen fixation
+A review of solar hybrid photovoltaic-thermal (PV-T) collectors and systems
+Novel Pt-carbon core–shell decorated hierarchical CoMo2S4 as efficient electrocatalysts for alkaline/seawater hydrogen evolution reaction
+Role of power-to-gas in an integrated gas and&nbsp;electricity system in Great Britain
+Tuning Mass Transport in Electrocatalysis Down to Sub‐5 nm through Nanoscale Grade Separation
+Modeling the linkage between climate-tech, energy transition, and CO2 emissions: Do environmental regulations matter?
+The economics of global green ammonia trade – “Shipping Australian wind and sunshine to Germany”
+Electrocatalytic seawater splitting: Nice designs, advanced strategies, challenges and perspectives
+Semi-supervised adversarial discriminative learning approach for intelligent fault diagnosis of wind turbine
+Early prediction of battery degradation in grid-scale battery energy storage system using extreme gradient boosting algorithm
+Research on the evolution of China's photovoltaic technology innovation network from the perspective of patents
+Detection of False Data Injection Attacks in Battery Stacks Using Input Noise-Aware Nonlinear State Estimation and Cumulative Sum Algorithms
+Using electrolytic hydrogen production and energy storage for balancing a low carbon electricity grid: Scenario assessments for India
+Fiber Optic Sensing Technologies for Battery Management Systems and Energy Storage Applications
+
+
+
