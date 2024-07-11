@@ -8,7 +8,7 @@ My approach is as follows:
 
 2. Vectorization: I first removed all the stopwords and applied lemmatization. To vectorize text, I used Word2Vec as it captures the semantic and contextual information, while IT-IDF only captures the importance of the word based on frequency scores.
 
-3. Clustering: I utilised DBSCAN to cluster the papers because it can handle nested clusters. In addition, it is more efficient to handle highly dimensioned vectors, compared to K-Means method.
+3. Clustering: I utilised DBSCAN to cluster the papers because it can handle nested clusters. In addition, it is more efficient to handle noises, compared to K-Means method.
 
 4. To visualize, I use PCA to convert multi-dimensioned space into 2D space.
 
