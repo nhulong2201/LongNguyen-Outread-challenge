@@ -6,7 +6,7 @@ My approach is as follows:
 
 1. To extract the Abstract, for each PDF, I read in the first page and convert them to lowercase. I use the heuristic that the abstract is usually located between the 2 keywords "Abstract" and "Introduction".
 
-2. Vectorization: I first removed all the stopwords and applied lemmatization. To vectorize text, I used Word2Vec as it captures the semantic and contextual information, while IT-IDF only captures the semantic info.
+2. Vectorization: I first removed all the stopwords and applied lemmatization. To vectorize text, I used Word2Vec as it captures the semantic and contextual information, while IT-IDF only captures the importance of the word based on frequency scores.
 
 3. Clustering: I utilised DBSCAN to cluster the papers because it can handle nested clusters. In addition, it is more efficient to handle highly dimensioned vectors, compared to K-Means method.
 
